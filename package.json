@@ -1,0 +1,26 @@
+{
+  "name": "tesla-api",
+  "version": "1.0.0",
+  "description": "Tesla API",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meg768/tesla-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/meg768/tesla-api/issues"
+  },
+  "homepage": "https://github.com/meg768/tesla-api#readme",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "dotenv": "^10.0.0",
+    "request": "^2.88.2",
+    "teslajs": "^4.9.11",
+    "yow": "^1.0.109"
+  }
+}
